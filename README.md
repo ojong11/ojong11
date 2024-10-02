@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @ojong11
-👀 I’m interested in DevOps and cloud computing.
+- 👋 Hi, I’m Harivan
+👀 I’m interested in DevOps and cloud computing, Penentration Testing and DevOps.
+Again I am really intrested in learning any new cuting edge technology
 
-🌱 I’m currently working as a DevOps Engineer and AWS Architect.
+🌱 I’m currently working as a DevOps Engineer.
 
 💞️ I’m looking to collaborate on DevOps projects and cloud architecture.
 
